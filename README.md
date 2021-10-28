@@ -4,7 +4,7 @@ A graphics editor that allows you to: draw and move lines, use morphing for line
 
 ## Initialization
 
-1. Скачать данный репозиторий;
+1. [Скачать данный репозиторий](https://github.com/AndreyBV/GraphicsEditor/archive/refs/heads/main.zip);
 1. Открыть файл **"GED.sln"** проекта;
 1. Запустить проект **"Ctrl+F5"**.
 
