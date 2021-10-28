@@ -1,0 +1,60 @@
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Release\GED.exe.config
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Release\GED.exe
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Release\GED.pdb
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\MainWindow.g.cs
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\App.g.cs
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\MainWindow.baml
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.g.resources
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.exe
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\bin\Release\GED.exe.config
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\bin\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\bin\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\MainWindow.g.cs
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\App.g.cs
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\MainWindow.baml
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.g.resources
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\BASE\GED — копия\GED\obj\Release\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\bin\Release\GED.exe.config
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\bin\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\bin\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\MainWindow.g.cs
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\App.g.cs
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\MainWindow.baml
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.g.resources
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\BASE\GED — копия — копия\GED\obj\Release\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\GED.exe.config
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\MainWindow.g.cs
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\App.g.cs
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\MainWindow.baml
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.g.resources
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Release\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\Json.dll
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\Json.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Release\Newtonsoft.Json.xml

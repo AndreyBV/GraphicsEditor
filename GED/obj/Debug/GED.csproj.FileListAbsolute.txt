@@ -1,0 +1,92 @@
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\bin\Debug\GED.exe.config
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\MainWindow.g.cs
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\App.g.cs
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED_MarkupCompile.cache
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED_MarkupCompile.lref
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\bin\Debug\GED.exe
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\bin\Debug\GED.pdb
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\MainWindow.baml
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.g.resources
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.Properties.Resources.resources
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.csproj.GenerateResource.Cache
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.exe
+D:\Files\Microsoft\Visual Studio\Project\All project\GED\GED\obj\Debug\GED.pdb
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\bin\Debug\GED.exe.config
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.exe
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.pdb
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\bin\Debug\GED.exe
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\bin\Debug\GED.pdb
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\MainWindow.g.cs
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\App.g.cs
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED_MarkupCompile.cache
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED_MarkupCompile.lref
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\MainWindow.baml
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.g.resources
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.Properties.Resources.resources
+D:\Files\Microsoft\Visual Studio\Project\All project\GED — копия\GED\obj\Debug\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\GED\GED\bin\Debug\GED.exe.config
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.exe
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.pdb
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\GED\GED\bin\Debug\GED.exe
+C:\Users\Andreas\Desktop\GED\GED\bin\Debug\GED.pdb
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.g.resources
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\GED\GED\obj\Debug\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Debug\GED.exe.config
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.exe
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.pdb
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Debug\GED.exe
+C:\Users\Andreas\Desktop\GED — копия\GED\bin\Debug\GED.pdb
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.g.resources
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\GED — копия\GED\obj\Debug\GED.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\GED.exe.config
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\GED.exe
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\GED.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\Json.dll
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\Json.pdb
+C:\Users\Andreas\Desktop\BASE\GED\GED\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED_MarkupCompile.cache
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED_MarkupCompile.lref
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.g.resources
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.Properties.Resources.resources
+C:\Users\Andreas\Desktop\BASE\GED\GED\obj\Debug\GED.csproj.GenerateResource.Cache
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\GED.exe.config
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.exe
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.pdb
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\GED.exe
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\GED.pdb
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\Json.dll
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\Newtonsoft.Json.dll
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\Json.pdb
+f:\Files\University\Компьютерная графика\GED\GED\bin\Debug\Newtonsoft.Json.xml
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.csprojResolveAssemblyReference.cache
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\MainWindow.g.cs
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\App.g.cs
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED_MarkupCompile.cache
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED_MarkupCompile.lref
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\MainWindow.baml
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.g.resources
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.Properties.Resources.resources
+f:\Files\University\Компьютерная графика\GED\GED\obj\Debug\GED.csproj.GenerateResource.Cache
